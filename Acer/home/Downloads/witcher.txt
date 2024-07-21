@@ -1,0 +1,5 @@
+Witcher 3:
+mangohud gamescope -W 1920 -H 1080 -r 60 -f -- %command%
+#mangohud gamescope -W 2560 -H 1080 -r 60 -f -- %command% 
+GE 9.0-2
+Zen

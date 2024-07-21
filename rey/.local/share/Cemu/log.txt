@@ -1,0 +1,82 @@
+[19:34:55.806] ------- Init Cemu 2.0-88 (experimental) -------
+[19:34:55.807] Init Wii U memory space (base: 0x00007d8a88000000)
+[19:34:55.807] mlc01 path: /users/rey/home/Gamesaves/cemu
+[19:34:55.807] CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+[19:34:55.807] RAM: 15864MB
+[19:34:55.808] Platform: Linux
+[19:34:55.808] Used CPU extensions: SSSE3, SSE4.1, AVX, AVX2, LZCNT, MOVBE, BMI2, AES-NI, INVARIANT-TSC
+[19:34:55.814] IOSU_CRYPTO: No otp.bin found. Online mode cannot be used
+[19:34:55.814] IOSU_CRYPTO: No Seeprom.bin found. Online mode cannot be used
+[19:35:52.000] Mounting title 000500001010ed00
+[19:35:52.000] Base: /games/Roms/WiiU/MARIO KART 8 [Game] [000500001010ed00]/title.tmd [NUS]
+[19:35:52.002] Update: /games/Roms/WiiU/MARIO KART 8 [Update] [0005000e1010ed00]/title.tmd [NUS]
+[19:35:52.005] DLC: /games/Roms/WiiU/MARIO KART 8 [DLC] [0005000c1010ed00]/title.tmd [NUS]
+[19:35:52.007] Shared font CafeCn.ttf is not present
+[19:35:52.026] Recompiler initialized
+[19:35:53.937] ------- Init Vulkan graphics backend -------
+[19:35:54.052] Vulkan instance version: 1.3
+[19:35:54.089] Using GPU: NVIDIA GeForce GTX 1050 Ti
+[19:35:54.089] Driver version: 550.90.07
+[19:35:54.089] VulkanLimits: UBAlignment 256 nonCoherentAtomSize 64
+[19:35:54.125] Using available debug function: vkCreateDebugUtilsMessengerEXT()
+[19:35:54.125] Vulkan device memory info:
+[19:35:54.126] Heap 0 - Size 4096MB Flags 0x00000001
+[19:35:54.126] Heap 1 - Size 11898MB Flags 0x00000000
+[19:35:54.126] Heap 2 - Size 246MB Flags 0x00000001
+[19:35:54.126] Memory 0 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 1 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 2 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 3 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 4 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 5 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 6 - HeapIndex 1 Flags 0x00000000
+[19:35:54.126] Memory 7 - HeapIndex 0 Flags 0x00000001
+[19:35:54.126] Memory 8 - HeapIndex 1 Flags 0x00000006
+[19:35:54.126] Memory 9 - HeapIndex 1 Flags 0x0000000e
+[19:35:54.126] Memory 10 - HeapIndex 2 Flags 0x00000007
+[19:35:54.298] ------- Loaded title -------
+[19:35:54.298] TitleId: 00050000-1010ed00
+[19:35:54.298] TitleVersion: v81
+[19:35:54.298] TitleRegion: EU
+[19:35:54.298] Save path:   /users/rey/home/Gamesaves/cemu/usr/save/00050000/1010ED00/user/ (not present)
+[19:35:54.298] Shader cache file: shaderCache/transferable/000500001010ed00.bin
+[19:35:54.298] gameprofile path:  (not present)
+[19:35:54.298] RPX hash (updated): cc0c4c33
+[19:35:54.298] RPX hash (base): 9708a1d3
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0003
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 04f2:b573
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 04ca:3016
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 0bda:0129
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 054c:05c4
+[19:35:54.324] nsyshid::BackendLibusb: device not on whitelist: 1d6b:0002
+[19:35:54.659] Loaded module 'turbo' with checksum 0x9f0a90b7
+[19:35:54.661] Loaded module 'mvplayer' with checksum 0x1e5181e7
+[19:35:54.661] RPL link time: 337ms
+[19:35:54.726] HLE scan time: 65ms
+[19:35:54.726] ------- Active settings -------
+[19:35:54.726] CPU-Mode: Multi-core recompiler
+[19:35:54.726] Load shared libraries: true
+[19:35:54.726] Use precompiled shaders: auto
+[19:35:54.726] Full sync at GX2DrawDone: true
+[19:35:54.726] Strict shader mul: true
+[19:35:54.726] Async compile: false
+[19:35:54.726] Console language: 1
+[19:35:55.142] ------- Activate graphic packs -------
+[19:35:55.154] Applying patch group 'MK8_DisableFXAA_V42'
+[19:35:55.154] Applying patch group 'MK8_AspectRatio_Shared' (Codecave: 01800000-01800018)
+[19:35:55.154] Applying patch group 'MK8_AspectRatio_V42'
+[19:35:55.154] Applying patch group 'MK8_LevelOfDetail_V42_V41'
+[19:35:55.154] Activate graphic pack: Mario Kart 8/Graphics [Presets: 16:9 (Default),1280x720 (HD, Default),854x480 (Default),Medium (100%, Default),1x (Default),Disabled,On (Default),100% (Default),Normal (Default),Normal (Default)]
+[19:35:55.154] ------- Init Audio backend -------
+[19:35:55.154] DirectSound: not supported
+[19:35:55.154] XAudio 2.8: not supported
+[19:35:55.154] XAudio 2.7: not supported
+[19:35:55.154] Cubeb: available
+[19:35:55.154] ------- Init Audio input backend -------
+[19:35:55.154] Cubeb: available
+[19:35:55.154] ------- Run title -------
+[19:35:55.163] Graphic pack "Graphic Options" prevents rendertarget size optimization. This warning can be ignored and is intended for graphic pack developers
+[19:35:56.467] IOSU_ACT: using account default in first slot
+[19:35:56.610] Loaded module 'mw_shamo' with checksum 0x6778fb86
+[19:35:56.621] Loaded module 'mw_shamo_sbc' with checksum 0xa594053c
+[19:35:58.256] OSGetSharedData() called by game but no shareddata fonts loaded. Use placeholder font

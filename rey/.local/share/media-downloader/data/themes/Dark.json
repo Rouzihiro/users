@@ -1,0 +1,82 @@
+{
+    "QPalette::AlternateBase": {
+        "GlobalColor": "darkColor"
+    },
+    "QPalette::Base": {
+        "rgba": [
+            41,
+            42,
+            43,
+            255
+        ]
+    },
+    "QPalette::BrightText": {
+        "Qt::GlobalColor": "Qt::yellow"
+    },
+    "QPalette::Button": {
+        "GlobalColor": "darkColor"
+    },
+    "QPalette::ButtonText": {
+        "Qt::GlobalColor": "Qt::lightGray"
+    },
+    "QPalette::Disabled,QPalette::ButtonText": {
+        "GlobalColor": "disabledColor"
+    },
+    "QPalette::Disabled,QPalette::HighlightedText": {
+        "GlobalColor": "disabledColor"
+    },
+    "QPalette::Disabled,QPalette::Text": {
+        "GlobalColor": "disabledColor"
+    },
+    "QPalette::Highlight": {
+        "rgba": [
+            27,
+            129,
+            231,
+            255
+        ]
+    },
+    "QPalette::HighlightedText": {
+        "Qt::GlobalColor": "Qt::black"
+    },
+    "QPalette::Link": {
+        "rgba": [
+            77,
+            148,
+            209,
+            255
+        ]
+    },
+    "QPalette::Text": {
+        "Qt::GlobalColor": "Qt::lightGray"
+    },
+    "QPalette::ToolTipBase": {
+        "GlobalColor": "darkColor"
+    },
+    "QPalette::ToolTipText": {
+        "Qt::GlobalColor": "Qt::lightGray"
+    },
+    "QPalette::Window": {
+        "GlobalColor": "darkColor"
+    },
+    "QPalette::WindowText": {
+        "Qt::GlobalColor": "Qt::lightGray"
+    },
+    "QToolTipStyleSheet": "QToolTip { color: #ffffff; background-color: #2a82da; border: 1px solid white; }",
+    "darkColor": {
+        "rgba": [
+            45,
+            45,
+            45,
+            255
+        ]
+    },
+    "disabledColor": {
+        "rgba": [
+            127,
+            127,
+            127,
+            255
+        ]
+    }
+}

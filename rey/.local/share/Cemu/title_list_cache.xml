@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<title_list>
+ <title titleId="00050000101c9500" version="0" sdk_version="21301" group_id="00001c95" app_type="80000000">
+  <region>4</region>
+  <name>The Legend of Zelda Breath of the Wild</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/The Legend of Zelda Breath of the Wild [Game] [00050000101c9500]/title.tmd</path>
+ </title>
+ <title titleId="0005000e101c9500" version="208" sdk_version="21301" group_id="00001c95" app_type="0800001b">
+  <region>4</region>
+  <name>The Legend of Zelda Breath of the Wild</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/The Legend of Zelda Breath of the Wild [Update] [0005000e101c9500]/title.tmd</path>
+ </title>
+ <title titleId="000500001010ed00" version="1" sdk_version="21011" group_id="0000101e" app_type="80000000">
+  <region>4</region>
+  <name>MARIO KART 8</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/MARIO KART 8 [Game] [000500001010ed00]/title.tmd</path>
+ </title>
+ <title titleId="0005000e1010ed00" version="81" sdk_version="21213" group_id="0000101e" app_type="0800001b">
+  <region>4</region>
+  <name>MARIO KART 8</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/MARIO KART 8 [Update] [0005000e1010ed00]/title.tmd</path>
+ </title>
+ <title titleId="0005000010145000" version="16" sdk_version="21204" group_id="00001450" app_type="80000000">
+  <region>4</region>
+  <name>Super Smash Bros. for Wii U</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/Super Smash Bros for Wii U [Game] [0005000010145000]/title.tmd</path>
+ </title>
+ <title titleId="0005000e10145000" version="304" sdk_version="21204" group_id="00001450" app_type="0800001b">
+  <region>4</region>
+  <name>Super Smash Bros. for Wii U</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/Super Smash Bros for Wii U [Update] [0005000e10145000]/title.tmd</path>
+ </title>
+ <title titleId="0005000c1010ed00" version="80" sdk_version="21213" group_id="0000101e" app_type="0800000e">
+  <region>4</region>
+  <name>MARIO KART 8</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/MARIO KART 8 [DLC] [0005000c1010ed00]/title.tmd</path>
+ </title>
+ <title titleId="0005000c101c9500" version="80" sdk_version="21301" group_id="00001c95" app_type="0800000e">
+  <region>4</region>
+  <name>The Legend of Zelda Breath of the Wild</name>
+  <format>4</format>
+  <path>/games/Roms/WiiU/The Legend of Zelda Breath of the Wild [DLC] [0005000c101c9500]/title.tmd</path>
+ </title>
+</title_list>

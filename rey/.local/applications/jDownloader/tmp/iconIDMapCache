@@ -1,0 +1,5 @@
+{
+ "kc.ef48dcf3b9c0c91070c00a73efaa71f9" : {"rsc":[{"rsc":[{"cls":"tld","key":"1fichier.com"},{"key":"auto-reconnect"}],"cls":"Favit"}],"cls":"ColMerge"},
+ "kc.d2cc9c369f0bb28a7788a38cecd898c5" : {"key":"download"},
+ "kc.ca804bbe3166549060950b0f61d7294b" : {"rsc":[{"rsc":[{"cls":"tld","key":"1fichier.com"},{"key":"download"}],"cls":"Favit"}],"cls":"ColMerge"}
+}

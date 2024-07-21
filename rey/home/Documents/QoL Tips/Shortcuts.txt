@@ -1,0 +1,1 @@
+ln -s ~/.local/share/Steam/compatibilitytools.d/GE-Proton9-5/ GE9

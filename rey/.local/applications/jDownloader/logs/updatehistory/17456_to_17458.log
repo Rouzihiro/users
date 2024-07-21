@@ -1,0 +1,29 @@
+Thu Jul 18 16:22:41 CEST 2024
+Package: package_1721303539638.awf
+Install
+Write Revision: 17457
+----------------Plugins----------------
+   jd/plugins/decrypter/ArchiveOrgCrawler.class
+   jd/plugins/hoster/AkwamCc.class
+   jd/plugins/hoster/MegaConz.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1721304739162.awf
+Install
+Write Revision: 17458
+----------------Plugins----------------
+   jd/plugins/decrypter/ArchiveOrgCrawler.class
+   jd/plugins/hoster/AkwamCc.class
+   jd/plugins/hoster/MegaConz$1.class
+   jd/plugins/hoster/MegaConz$2.class
+   jd/plugins/hoster/MegaConz$3.class
+   jd/plugins/hoster/MegaConz$MegaDownloadLinkDownloadable.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck$1.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck.class
+   jd/plugins/hoster/MegaConz.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

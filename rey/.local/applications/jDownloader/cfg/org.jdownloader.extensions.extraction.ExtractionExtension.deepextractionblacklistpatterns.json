@@ -1,0 +1,1 @@
+["##Lines with XX are comments","##Skip deep extraction of archives that contain binary files",".*\\.exe",".*\\.msi",".*\\.bat",".xbe",".elf",".sh"]

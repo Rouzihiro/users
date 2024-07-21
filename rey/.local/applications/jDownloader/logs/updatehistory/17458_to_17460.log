@@ -1,0 +1,322 @@
+Sat Jul 20 12:30:29 CEST 2024
+Package: package_1721468553913.awf
+Install
+Write Revision: 17460
+----------------Plugins----------------
+   jd/plugins/decrypter/ArchiveOrgCrawler.class
+   jd/plugins/decrypter/GenericHTTPDirectoryIndexCrawler$1.class
+   jd/plugins/decrypter/GenericHTTPDirectoryIndexCrawler.class
+   jd/plugins/decrypter/MegaConz$1.class.removed
+   jd/plugins/decrypter/MegaConz$2.class.removed
+   jd/plugins/decrypter/MegaConz$MegaFolder.class.removed
+   jd/plugins/decrypter/MegaConz.class.removed
+   jd/plugins/decrypter/MegaNzFolder$1.class
+   jd/plugins/decrypter/MegaNzFolder$2.class
+   jd/plugins/decrypter/MegaNzFolder$MegaFolder.class
+   jd/plugins/decrypter/MegaNzFolder.class
+   jd/plugins/decrypter/RewriteMegaConz.class.removed
+   jd/plugins/hoster/AnonymfileCom.class
+   jd/plugins/hoster/AporntvCom.class
+   jd/plugins/hoster/ClicknuploadOrg.class
+   jd/plugins/hoster/FirefileCc.class
+   jd/plugins/hoster/MegaConz$1.class.removed
+   jd/plugins/hoster/MegaConz$2.class.removed
+   jd/plugins/hoster/MegaConz$3.class.removed
+   jd/plugins/hoster/MegaConz$MegaDownloadLinkDownloadable.class.removed
+   jd/plugins/hoster/MegaConz$MegaHashCheck$1.class.removed
+   jd/plugins/hoster/MegaConz$MegaHashCheck.class.removed
+   jd/plugins/hoster/MegaConz.class.removed
+   jd/plugins/hoster/MegaNz$1.class
+   jd/plugins/hoster/MegaNz$2.class
+   jd/plugins/hoster/MegaNz$3.class
+   jd/plugins/hoster/MegaNz$MegaDownloadLinkDownloadable.class
+   jd/plugins/hoster/MegaNz$MegaHashCheck$1.class
+   jd/plugins/hoster/MegaNz$MegaHashCheck.class
+   jd/plugins/hoster/MegaNz.class
+   jd/plugins/hoster/NovelcoolCom.class
+   jd/plugins/hoster/RapidGatorNet.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$25.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$26.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$27.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler.class
+   JD: Core.jar/org/jdownloader/plugins/components/archiveorg/ArchiveOrgConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/archiveorg/ArchiveOrgConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$1.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$InvalidOrMissingDecryptionKeyAction$1.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$InvalidOrMissingDecryptionKeyAction$2.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$InvalidOrMissingDecryptionKeyAction$3.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$InvalidOrMissingDecryptionKeyAction.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$1.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$2.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$3.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$TRANSLATION.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$InvalidOrMissingDecryptionKeyAction$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$InvalidOrMissingDecryptionKeyAction$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$InvalidOrMissingDecryptionKeyAction$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$InvalidOrMissingDecryptionKeyAction.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$LimitMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$LimitMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$LimitMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$LimitMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzFolderConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaNzFolderConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YoutubeHelper$47.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/configpanel/VariantsMapTableModel.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$5.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$6.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$7.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/itag/QualitySortIdentifier$8.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/variants/SubtitleVariant.class
+   JD: Core.jar/org/jdownloader/plugins/controller/host/PluginFinder.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/ConfigPanel$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/ConfigPanel$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/ConfigPanel$ScrollablePanel.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/ConfigPanel.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/GUIConfigEntry$1.class.removed
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/GUIConfigEntry.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$1$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$1$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$3$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$3.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$7$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$7$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$7.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$8$1.class.removed
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$8.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$9.class.removed
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel$Scroll.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/pluginsettings/PluginSettingsPanel.class
+   JD: libs/cons.jar/org/jdownloader/container/InternetShortcut.class
+   JD: libs/jsvg.jar/META-INF/LICENSE
+   JD: libs/jsvg.jar/META-INF/MANIFEST.MF
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/SVGDocument.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/SVGRenderingHints$Key.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/SVGRenderingHints$Value.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/SVGRenderingHints.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/AttributeParser.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/ColorInterpolation.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PaintOrder$Phase.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PaintOrder.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PreserveAspectRatio$AlignType$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PreserveAspectRatio$AlignType$2.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PreserveAspectRatio$AlignType$3.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PreserveAspectRatio$AlignType.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/PreserveAspectRatio.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/VectorEffect$Flags.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/VectorEffect.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode$2.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode$3.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode$ConvolveOperation.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode$EdgeModeImage.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/EdgeMode.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/LayoutBounds.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/filter/TransferFunctionType.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SVGPaint$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SVGPaint$2.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SVGPaint$3.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SVGPaint$4.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SVGPaint.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/paint/SimplePaintSVGPaint.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/attributes/stroke/StrokeResolver.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/SVGCircle.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/SVGEllipse.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/path/PathParser$1.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/path/PathParser$NumberCharState.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/path/PathParser.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/size/FloatSize.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/size/Length$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/size/Length.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/util/GeometryUtil$Space.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/geometry/util/GeometryUtil.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/AbstractGradient.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/ClipPath.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/Image.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/LinearGradient.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/Mask.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/Pattern.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/RadialGradient.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/SVG.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/ShapeNode.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/Stop.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/Use.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/container/BaseInnerViewContainer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/container/CommonRenderableContainerNode.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AbstractBlendComposite$Blender.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AbstractBlendComposite$BlendingContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AbstractBlendComposite.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AbstractCompositeFilterPrimitive.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AbstractFilterPrimitive.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/AlphaImageFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/BlendModeComposite$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/BlendModeComposite.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/ChainedFilterPrimitive$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/ChainedFilterPrimitive$OuterLastResult.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/ChainedFilterPrimitive.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Channel.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/CompositeModeComposite$ArithmeticComposite.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/CompositeModeComposite$LighterComposite.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix$AffineRGBImageFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix$LinearRGBFilter.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix$LuminanceToAlphaFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix$MatrixRGBFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix$NoAlphaMatrixRGBFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeColorMatrix.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeComponentTransfer$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeComponentTransfer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeDisplacementMap$DisplacementOp.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeDisplacementMap.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeDropShadow.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeFlood.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeGaussianBlur$MixedQualityConvolveOperation.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeGaussianBlur.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeMerge.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeMergeNode.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FeOffset.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Filter$AlphaImageFilter.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Filter$FilterBounds.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Filter$FilterInfo.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Filter$SourceAlphaChannel.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/Filter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FilterContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FilterPrimitive.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/FilterPrimitiveBase.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/ImageProducerChannel.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$Channel.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$FeFuncA.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$FeFuncB.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$FeFuncG.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement$FeFuncR.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/filter/TransferFunctionElement.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/mesh/MeshGradient.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/mesh/MeshPatch.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/HasShape$Box.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/HasShape.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/Renderable.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/ShapedContainer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/Transformable.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/prototype/spec/Category.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/GlyphRenderer$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/GlyphRenderer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/LinearTextContainer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/Text.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextContainer$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextContainer$IntermediateTextMetrics.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextContainer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextPath$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextPath.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextSegment$RenderableSegment.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/nodes/text/TextSpan.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/AsynchronousResourceLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/AttributeNode.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/DefaultElementLoader$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/DefaultElementLoader$DefaultDocumentLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/DefaultElementLoader$DocumentLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/DefaultElementLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ElementLoader$ExternalDocumentPolicy.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ElementLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ExternalDocumentLoader$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ExternalDocumentLoader$CachedDocument.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ExternalDocumentLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/LoadHelper.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/LoaderContext$Builder.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/LoaderContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/MutableLoaderContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/NodeSupplier.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ParsedDocument.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ParsedElement.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ParserProvider.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ResourceLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/SVGDocumentBuilder.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/SVGLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/StaxSVGLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/SwingUIFuture$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/SwingUIFuture.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/SynchronousResourceLoader.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/UIFuture.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/ValueUIFuture.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/css/impl/Lexer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/css/impl/SimpleCssParser$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/css/impl/SimpleCssParser$Parser.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/css/impl/TokenType.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/resources/
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/resources/ImageResource.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/resources/MissingImageResource.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/resources/RenderableResource.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/parser/resources/SVGResource.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ElementBounds.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/FontRenderContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/Graphics2DOutput.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/GraphicsUtil$DisposablePaint.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/GraphicsUtil$WrappingPaint.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/GraphicsUtil.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/Info$InfoWithIsolation.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/Info.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/IsolationEffects.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/MaskedPaint$MaskPaintContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/MaskedPaint.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/NodeRenderer$Info.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/NodeRenderer$InfoWithFilter.class.removed
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/NodeRenderer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/Output$SafeState.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/Output.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/PaintContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/RenderContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeOutput$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeOutput$ShapeOutputSafeState.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeOutput.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer$PaintShape.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer$PaintWithOpacity.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer$ShapeMarkerInfo.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer$ShapePaintContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/ShapeRenderer.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/StrokeContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/AwtComponentPlatformSupport.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/JComponentPlatformSupport.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/NullPlatformSupport.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/PlatformSupport$TargetSurface.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/awt/PlatformSupport.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/renderer/jdk/SVGMultipleGradientPaintContext.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/BlittableImage.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/CachedSurfaceSupplier$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/CachedSurfaceSupplier$Cache.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/CachedSurfaceSupplier$CachedImage.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/CachedSurfaceSupplier$ResourceCleaner.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/CachedSurfaceSupplier.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ColorSpaceAwareRGBImageFilter.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ColorUtil.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/DataUri.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/GraphicsResetHelper.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ImageUtil$Premultiplied.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ImageUtil.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ParserBase$1.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ParserBase$NumberCharState.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ParserBase.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ResourceUtil.class
+   JD: libs/jsvg.jar/com/github/weisj/jsvg/util/ShapeUtil.class
+   libs/JDGUI.jar
+   libs/cons.jar
+   libs/jsvg.jar
+   libs/laf/flatlaf.dep.json

@@ -1,0 +1,8 @@
+
+sudo yum install bchunk
+
+bchunk 1.bin 1.cue name
+
+sudo mkdir /mnt/iso
+
+sudo mount -o loop -t iso9660 1.iso /mnt/iso/

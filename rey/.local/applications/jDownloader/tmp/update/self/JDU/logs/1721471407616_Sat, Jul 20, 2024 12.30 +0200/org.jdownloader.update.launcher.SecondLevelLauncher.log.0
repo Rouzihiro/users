@@ -1,0 +1,156 @@
+------------------------Thread: 1:org.jdownloader.update.launcher.SecondLevelLauncher.log-----------------------
+--ID:1TS:1721471407822-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.version: 17
+--ID:1TS:1721471407822-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000001: org.jdownloader.update.launcher.CL2
+--ID:1TS:1721471407822-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.jnu.encoding: UTF-8
+--ID:1TS:1721471407823-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000000: org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1721471407823-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: extlogmanager.avoidsystemclassloader.hack: org.jdownloader.updatev2.JDClassLoaderLauncher$JDCustomRootClassLoader@6e0be858
+--ID:1TS:1721471407823-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.path: /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/JDownloader.jar
+--ID:1TS:1721471407824-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.vendor: Oracle Corporation
+--ID:1TS:1721471407824-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.arch.data.model: 64
+--ID:1TS:1721471407824-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.Arrays.useLegacyMergeSort: true
+--ID:1TS:1721471407825-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url: https://openjdk.java.net/
+--ID:1TS:1721471407825-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.timezone: Europe/Berlin
+--ID:1TS:1721471407825-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.version: 17
+--ID:1TS:1721471407826-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.name: Linux
+--ID:1TS:1721471407826-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.launcher: SUN_STANDARD
+--ID:1TS:1721471407826-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.country: US
+--ID:1TS:1721471407826-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.net.preferIPv6Addresses: system
+--ID:1TS:1721471407826-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.boot.library.path: /nix/store/h8m8w6841pd93ri1l84bwhbwwzkgckci-openjdk-17.0.11+9/lib/openjdk/lib
+--ID:1TS:1721471407827-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.command: /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/JDownloader.jar -selftest tmp/selftest_1721471407428 /users/rey/.local/applications/jDownloader
+--ID:1TS:1721471407827-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.rmi.server.useCodebaseOnly: true
+--ID:1TS:1721471407827-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: jdk.debug: release
+--ID:1TS:1721471407827-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.cpu.endian: little
+--ID:1TS:1721471407827-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.home: /home/rey
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.language: en
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: LOG_INIT_DONE: 2 instances
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.vendor: Oracle Corporation
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.version.date: 2024-04-16
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.home: /nix/store/h8m8w6841pd93ri1l84bwhbwwzkgckci-openjdk-17.0.11+9/lib/openjdk
+--ID:1TS:1721471407828-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.separator: /
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.compressedOopsMode: Zero based
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: line.separator: 
+
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.name: Java Platform API Specification
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.vendor: Oracle Corporation
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: org.appwork.LoggerFactory: org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1721471407829-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.rmi.object.trustURLCodebase: false
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.version: 17.0.11+9-nixos
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.name: rey
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: path.separator: :
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.cosnaming.object.trustURLCodebase: false
+--ID:1TS:1721471407830-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.version: 6.9.8-zen1
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.name: OpenJDK Runtime Environment
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.encoding: UTF-8
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.name: OpenJDK 64-Bit Server VM
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url.bug: https://bugreport.java.com/bugreport/
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.io.tmpdir: /tmp
+--ID:1TS:1721471407831-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.version: 17.0.11
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.dir: /users/rey/.local/applications/jDownloader
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.arch: amd64
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.name: Java Virtual Machine Specification
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: k: 0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: native.encoding: UTF-8
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.logging.manager: org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1721471407832-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.library.path: 
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.info: mixed mode, sharing
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor: N/A
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.version: 17.0.11+9-nixos
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.ldap.object.trustURLCodebase: false
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.io.unicode.encoding: UnicodeLittle
+--ID:1TS:1721471407833-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.version: 61.0
+--ID:1TS:1721471407834-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PATH: /run/wrappers/bin:/home/rey/.nix-profile/bin:/nix/profile/bin:/home/rey/.local/state/nix/profile/bin:/etc/profiles/per-user/rey/bin:/nix/var/nix/profiles/default/bin:/run/current-system/sw/bin
+--ID:1TS:1721471407834-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: __NIXOS_SET_ENVIRONMENT_DONE: 1
+--ID:1TS:1721471407834-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XAUTHORITY: /home/rey/.Xauthority
+--ID:1TS:1721471407835-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_MEASUREMENT: de_DE.UTF-8
+--ID:1TS:1721471407835-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XCURSOR_PATH: /home/rey/.icons:/home/rey/.local/share/icons:/home/rey/.nix-profile/share/icons:/home/rey/.nix-profile/share/pixmaps:/nix/profile/share/icons:/nix/profile/share/pixmaps:/home/rey/.local/state/nix/profile/share/icons:/home/rey/.local/state/nix/profile/share/pixmaps:/etc/profiles/per-user/rey/share/icons:/etc/profiles/per-user/rey/share/pixmaps:/nix/var/nix/profiles/default/share/icons:/nix/var/nix/profiles/default/share/pixmaps:/run/current-system/sw/share/icons:/run/current-system/sw/share/pixmaps
+--ID:1TS:1721471407835-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_TELEPHONE: de_DE.UTF-8
+--ID:1TS:1721471407835-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GDMSESSION: xfce
+--ID:1TS:1721471407835-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_DATA_DIRS: /nix/store/l4pqfgn1d520m49xw70rdhv3x2w0m53j-xfce4-terminal-1.1.3/share:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/share/gsettings-schemas/gsettings-desktop-schemas-46.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/share/gsettings-schemas/gtk+3-3.24.42:/nix/store/i6zwnz5ccfydlrpl5bqbfqj616a4x1gi-xfce4-settings-4.18.6/share:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/share/gsettings-schemas/gsettings-desktop-schemas-46.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/share/gsettings-schemas/gtk+3-3.24.42:/nix/store/17ad3lclw2f6b9ypbasbcg19kv4vf590-colord-1.4.6/share/gsettings-schemas/colord-1.4.6:/nix/store/mb5sj2p9mlzbcqnxlkhylq85f8qjcqyh-exo-4.18.0/share:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/share/gsettings-schemas/gsettings-desktop-schemas-46.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/share/gsettings-schemas/gtk+3-3.24.42:/nix/store/ixsbw37mw3qxlib2wsn224mwpms6h39i-xfce4-panel-4.18.6/share:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/share/gsettings-schemas/gsettings-desktop-schemas-46.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/share/gsettings-schemas/gtk+3-3.24.42:/nix/store/3s55iqj8ri7mxh045kh1izp65yqji8r3-xfce4-session-4.18.4/share:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/share/gsettings-schemas/gsettings-desktop-schemas-46.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/share/gsettings-schemas/gtk+3-3.24.42:/nix/store/nxhh1jp6jgdsb72i3jfls0wgm43kzndk-desktops/share:/home/rey/.nix-profile/share:/nix/profile/share:/home/rey/.local/state/nix/profile/share:/etc/profiles/per-user/rey/share:/nix/var/nix/profiles/default/share:/run/current-system/sw/share
+--ID:1TS:1721471407836-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_TIME: de_DE.UTF-8
+--ID:1TS:1721471407836-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NIXPKGS_CONFIG: /etc/nix/nixpkgs-config.nix
+--ID:1TS:1721471407836-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NIX_PROFILES: /run/current-system/sw /nix/var/nix/profiles/default /etc/profiles/per-user/rey /home/rey/.local/state/nix/profile /nix/profile /home/rey/.nix-profile
+--ID:1TS:1721471407836-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LESSKEYIN_SYSTEM: /nix/store/d66gj56vp9j31pf8i58k485jp7msvgzi-lessconfig
+--ID:1TS:1721471407836-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GIO_EXTRA_MODULES: /nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules:/nix/store/ghzfdhgwbcjzssswx4ajpsaad97aw0r0-gvfs-1.54.1/lib/gio/modules:/nix/store/kf6mrgljfvjlabd32bc48np47gkic1gs-glib-networking-2.80.0/lib/gio/modules:/nix/store/inf3h37isl0a3jga1xxnmav1j8jiv4r7-dconf-0.40.0-lib/lib/gio/modules
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_CURRENT_DESKTOP: XFCE
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_CACHE_HOME: /home/rey/.cache
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: JOURNAL_STREAM: 9:8079
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SSH_AGENT_PID: 1125
+--ID:1TS:1721471407837-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NIX_USER_PROFILE_DIR: /nix/var/nix/profiles/per-user/rey
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: COLORTERM: truecolor
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SESSION_MANAGER: local/nixos:@/tmp/.ICE-unix/1097,unix/nixos:/tmp/.ICE-unix/1097
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_PAPER: de_DE.UTF-8
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LOGNAME: rey
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GTK_PATH: /home/rey/.nix-profile/lib/gtk-2.0:/home/rey/.nix-profile/lib/gtk-3.0:/home/rey/.nix-profile/lib/gtk-4.0:/nix/profile/lib/gtk-2.0:/nix/profile/lib/gtk-3.0:/nix/profile/lib/gtk-4.0:/home/rey/.local/state/nix/profile/lib/gtk-2.0:/home/rey/.local/state/nix/profile/lib/gtk-3.0:/home/rey/.local/state/nix/profile/lib/gtk-4.0:/etc/profiles/per-user/rey/lib/gtk-2.0:/etc/profiles/per-user/rey/lib/gtk-3.0:/etc/profiles/per-user/rey/lib/gtk-4.0:/nix/var/nix/profiles/default/lib/gtk-2.0:/nix/var/nix/profiles/default/lib/gtk-3.0:/nix/var/nix/profiles/default/lib/gtk-4.0:/run/current-system/sw/lib/gtk-2.0:/run/current-system/sw/lib/gtk-3.0:/run/current-system/sw/lib/gtk-4.0
+--ID:1TS:1721471407838-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PWD: /users/rey/.local/applications/jDownloader
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: INFOPATH: /home/rey/.nix-profile/info:/home/rey/.nix-profile/share/info:/nix/profile/info:/nix/profile/share/info:/home/rey/.local/state/nix/profile/info:/home/rey/.local/state/nix/profile/share/info:/etc/profiles/per-user/rey/info:/etc/profiles/per-user/rey/share/info:/nix/var/nix/profiles/default/info:/nix/var/nix/profiles/default/share/info:/run/current-system/sw/info:/run/current-system/sw/share/info
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GDK_PIXBUF_MODULE_FILE: /nix/store/s2v1ll69m9kcin3a5iwsffdjdkh02w6l-librsvg-2.58.1/lib/gdk-pixbuf-2.0/2.10.0/loaders.cache
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: WINDOWID: 46137347
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SHELL: /run/current-system/sw/bin/mksh
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LESSOPEN: |/nix/store/zc8bmsq78c859vcsxqmvm1w6r0dvyjsi-lesspipe-2.11/bin/lesspipe.sh %s
+--ID:1TS:1721471407839-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_ADDRESS: de_DE.UTF-8
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PAGER: less
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GTK_A11Y: none
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: OLDPWD: /users/rey/.local/applications
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SSH_ASKPASS: /nix/store/as5czjchyscs268xq9d2c1m9zb1viiif-x11-ssh-askpass-1.2.4.1/libexec/x11-ssh-askpass
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LIBEXEC_PATH: /home/rey/.nix-profile/libexec:/nix/profile/libexec:/home/rey/.local/state/nix/profile/libexec:/etc/profiles/per-user/rey/libexec:/nix/var/nix/profiles/default/libexec:/run/current-system/sw/libexec
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PANEL_GDK_CORE_DEVICE_EVENTS: 0
+--ID:1TS:1721471407840-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SESSION_PATH: /org/freedesktop/DisplayManager/Session0
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: __ETC_PROFILE_DONE: 1
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SESSION_DESKTOP: xfce
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SHLVL: 0
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_IDENTIFICATION: de_DE.UTF-8
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HISTFILE: /home/rey/.mksh_history
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_MONETARY: de_DE.UTF-8
+--ID:1TS:1721471407841-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HISTSIZE: 1000
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: TERM: xterm-256color
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_CONFIG_DIRS: /etc/xdg:/home/rey/.nix-profile/etc/xdg:/nix/profile/etc/xdg:/home/rey/.local/state/nix/profile/etc/xdg:/etc/profiles/per-user/rey/etc/xdg:/nix/var/nix/profiles/default/etc/xdg:/run/current-system/sw/etc/xdg
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LANG: en_US.UTF-8
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SEAT_PATH: /org/freedesktop/DisplayManager/Seat0
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SESSION_ID: 1
+--ID:1TS:1721471407842-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SESSION_TYPE: x11
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: QTWEBKIT_PLUGIN_PATH: /home/rey/.nix-profile/lib/mozilla/plugins/:/nix/profile/lib/mozilla/plugins/:/home/rey/.local/state/nix/profile/lib/mozilla/plugins/:/etc/profiles/per-user/rey/lib/mozilla/plugins/:/nix/var/nix/profiles/default/lib/mozilla/plugins/:/run/current-system/sw/lib/mozilla/plugins/
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HISTFILESIZE: 2000
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: DISPLAY: :0.0
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GI_TYPELIB_PATH: /nix/store/lw6pxp6px4s8cz85y8jbcnfciy6xdmay-glib-2.80.3/lib/girepository-1.0:/nix/store/l9wi5yjrh39zk0crqi4bzkf4y16nn2lg-at-spi2-core-2.52.0/lib/girepository-1.0:/nix/store/8rnrqldphx72xn8my5s04b7b8m589r2k-gdk-pixbuf-2.42.12/lib/girepository-1.0:/nix/store/28g9mr98g8f2rihfb0rkihdvkh360rp8-gsettings-desktop-schemas-46.0/lib/girepository-1.0:/nix/store/906kh784lqgr82xrag3397qpk4wqajjg-harfbuzz-8.4.0/lib/girepository-1.0:/nix/store/433s6cya8zkkpl8p2i6nw2flly0rby49-pango-1.52.2/lib/girepository-1.0:/nix/store/3mzh8lvgbynm9daj7c82k2sfsfhrsfsy-gtk+3-3.24.42/lib/girepository-1.0:/nix/store/s2v1ll69m9kcin3a5iwsffdjdkh02w6l-librsvg-2.58.1/lib/girepository-1.0:/nix/store/1k6d43kh51zgxsc4hwlc3l3a8s0la714-gobject-introspection-wrapped-1.80.1/lib/girepository-1.0:/nix/store/kp1gw85j55l08l8v90lmpqrr3m545h8f-gobject-introspection-1.80.1/lib/girepository-1.0:/nix/store/fkdm2l5jy5mshl4v1ggn0amzaylvlc70-garcon-4.18.2/lib/girepository-1.0:/nix/store/idfwjlsmps0c80n81dmqcinvbg121l78-libdbusmenu-gtk3-16.04.0/lib/girepository-1.0:/nix/store/vfd5cy5vf2b7hnq4h96vrv966bcayqvx-libxfce4util-4.18.2/lib/girepository-1.0:/nix/store/ba0nddbbfb2vn9mswjqwgz8s6dxxgs6p-libxfce4ui-4.18.6/lib/girepository-1.0:/nix/store/wwr3hn9rrgdyyr21ki3r8aq4gqvk7iz2-libwnck-43.0/lib/girepository-1.0:/nix/store/j7341kivwvsw2b4ynlrpzz8f3026d1qr-xfconf-4.18.3/lib/girepository-1.0:/nix/store/ixsbw37mw3qxlib2wsn224mwpms6h39i-xfce4-panel-4.18.6/lib/girepository-1.0
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_NAME: de_DE.UTF-8
+--ID:1TS:1721471407843-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SESSION_CLASS: user
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: _: /run/current-system/sw/bin/java
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: GDK_BACKEND: x11
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LOCALE_ARCHIVE: /run/current-system/sw/lib/locale/locale-archive
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_GREETER_DATA_DIR: /var/lib/lightdm-data/rey
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: DESKTOP_SESSION: xfce
+--ID:1TS:1721471407844-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NIX_PATH: /home/rey/.nix-defexpr/channels:nixpkgs=/nix/var/nix/profiles/per-user/root/channels/nixos:nixos-config=/etc/nixos/configuration.nix:/nix/var/nix/profiles/per-user/root/channels
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: USER: rey
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_MENU_PREFIX: xfce-
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_CONFIG_HOME: /home/rey/.config
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: TZDIR: /etc/zoneinfo
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: VTE_VERSION: 7603
+--ID:1TS:1721471407845-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_NUMERIC: de_DE.UTF-8
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SSH_AUTH_SOCK: /tmp/ssh-XXXXXXy78MEz/agent.1124
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_SEAT: seat0
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: EDITOR: nano
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NO_AT_BRIDGE: 1
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_RUNTIME_DIR: /run/user/1000
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_VTNR: 7
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: TERMINFO_DIRS: /home/rey/.nix-profile/share/terminfo:/nix/profile/share/terminfo:/home/rey/.local/state/nix/profile/share/terminfo:/etc/profiles/per-user/rey/share/terminfo:/nix/var/nix/profiles/default/share/terminfo:/run/current-system/sw/share/terminfo
+--ID:1TS:1721471407846-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HOME: /home/rey
+--ID:1TS:1721471407849-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> jar:file:/users/rey/.local/applications/jDownloader/tmp/update/self/JDU/JDownloader.jar!/version.nfo:
+${updateclient.revision}
+--ID:1TS:1721471407850-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> ant-version: Apache Ant 1.10.5
+--ID:1TS:1721471407850-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> add-opens: java.desktop/javax.swing.plaf.synth java.desktop/javax.swin
+--ID:1TS:1721471407851-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> add-exports: java.desktop/sun.swing java.desktop/sun.swing.table java.
+--ID:1TS:1721471407851-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> created-by: Appwork GmbH and JDownloader Community
+--ID:1TS:1721471407851-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> manifest-version: 1.0
+--ID:1TS:1721471407851-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> main-class: org.jdownloader.update.launcher.JDLauncher
+--ID:1TS:1721471407852-7/20/24, 12:30:07 PM -  [org.appwork.utils.Application(printSystemProperties)] -> /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/JDownloader.jar- lastModified: 7/20/24, 11:42:34 AM
+--ID:1TS:1721471407852-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Args: [-selftest, tmp/selftest_1721471407428, /users/rey/.local/applications/jDownloader]
+--ID:1TS:1721471407859-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Restart Controller init done in 7
+--ID:1TS:1721471407859-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parse Arguments
+--ID:1TS:1721471407860-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parameter Parse done in 1
+--ID:1TS:1721471407860-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance Controller
+--ID:1TS:1721471407878-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance init done in 18
+--ID:1TS:1721471407878-7/20/24, 12:30:07 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Init UpdateManager
+--ID:1TS:1721471408017-7/20/24, 12:30:08 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Update Manager init done in 139
+--ID:1TS:1721471408018-7/20/24, 12:30:08 PM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Run Selftest

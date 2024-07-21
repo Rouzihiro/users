@@ -1,0 +1,16 @@
+{
+  "artefact":"org.antlr/antlr-runtime",
+  "filter":null,
+  "installed":{
+    "date":null,
+    "hashes":{"antlr-runtime.jar":"5b7cf53b7b30b034023f58030c8147c433f2bee0fe7dec8fae6bebf3708c5a63"},
+    "license":null,
+    "minJRE":"0",
+    "version":"3.4"
+  },
+  "minJRE":"1.6",
+  "provider":"maven",
+  "renames":null,
+  "version":"3.4",
+  "confirm":true
+}

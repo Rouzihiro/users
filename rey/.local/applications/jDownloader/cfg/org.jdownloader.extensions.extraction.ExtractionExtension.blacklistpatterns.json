@@ -1,0 +1,1 @@
+["##Lines with ## are comments","## Use / as path seperator","##Example to skip extraction of sample folder files","##.*sample/.*","##Example to skip extraction of JPEG files","##.*\\.jpe?g"]

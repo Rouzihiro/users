@@ -1,0 +1,5 @@
+------------------------Thread: 29:org.jdownloader.update.gui.LAFManager.log-----------------------
+--ID:29TS:1721471411666-7/20/24, 12:30:11 PM -  [org.jdownloader.update.gui.LAFManager(init)] -> Init LAF: org.jdownloader.gui.laf.jddefault.JDDefaultLookAndFeel
+--ID:29TS:1721471411667-7/20/24, 12:30:11 PM -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/libs/laf/synthetica.jar
+--ID:29TS:1721471411670-7/20/24, 12:30:11 PM -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/libs/laf/syntheticaJDCustom.jar
+--ID:29TS:1721471411671-7/20/24, 12:30:11 PM -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: /users/rey/.local/applications/jDownloader/tmp/update/self/JDU/libs/laf/syntheticaSimple2D.jar
